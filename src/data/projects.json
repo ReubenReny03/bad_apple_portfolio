@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project Management Dashboard",
+      "description": "A React-based project management tool with real-time updates, task tracking, and team collaboration features. Built with React, Firebase, and Material-UI.",
+      "technologies": ["React", "Firebase", "Material-UI", "Node.js"],
+      "liveDemo": "https://demo-project1.com",
+      "githubLink": "https://github.com/username/project1",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80"
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Platform",
+      "description": "Full-stack e-commerce solution with payment integration, inventory management, and user authentication. Developed using MERN stack.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js", "Stripe"],
+      "liveDemo": "https://demo-project2.com",
+      "githubLink": "https://github.com/username/project2",
+      "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&q=80"
+    },
+    {
+      "id": 3,
+      "title": "AI Image Generator",
+      "description": "Web application that generates unique images using AI. Integrates with OpenAI's API and includes image manipulation features.",
+      "technologies": ["Python", "Flask", "OpenAI API", "React", "AWS"],
+      "liveDemo": "https://demo-project3.com",
+      "githubLink": "https://github.com/username/project3",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "id": 4,
+      "title": "DevOps Automation Tool",
+      "description": "CLI tool for automating deployment workflows and infrastructure management. Built with Python and various cloud services.",
+      "technologies": ["Python", "AWS", "Docker", "Jenkins", "Terraform"],
+      "liveDemo": "https://demo-project4.com",
+      "githubLink": "https://github.com/username/project4",
+      "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Social Media Analytics Dashboard",
+      "description": "Real-time analytics dashboard for social media metrics. Features data visualization and automated reporting.",
+      "technologies": ["Vue.js", "D3.js", "Node.js", "PostgreSQL", "Redis"],
+      "liveDemo": "https://demo-project5.com",
+      "githubLink": "https://github.com/username/project5",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+    }
+  ]
+} 
